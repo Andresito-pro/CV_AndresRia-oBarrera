@@ -6,7 +6,7 @@
 
 ## 📞 Contacto
 - **Email:** [andresbarrera14.05@gmail.com](andresbarrera14.05@gmailcom)
-
+- **LinkedIn:**
 
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025 - Actualidad)_
