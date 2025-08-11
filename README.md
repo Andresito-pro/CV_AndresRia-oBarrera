@@ -1,29 +1,27 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Andrés Felipe Riaño Barrera
+**Profesión:** _Analista y desarrollador de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [andresbarrera14.05@gmail.com](andresbarrera14.05@gmailcom)
+
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- Python, Java Script, C++
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
-
+### **Técnico Lopez Quevedo** _(2020 - 2022)_
+- Bachiller
+- Técnico en sistemas agropecuarios ecologicos.
+### **Talento Tech** _(2024 - 2024)_
+- Curso en Analista de Datos
+### **Talento Tech** _(2025 - Actualidad)_
+- Aprendiz Analista y Desarrollador de software.
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Andrés es un aprendiz en etapa inicial en programación, con bases en Python y una metodología ordenada para resolver problemas. Antes de escribir código, analiza la situación, planifica y documenta, buscando claridad y entendimiento. En la recolección de requisitos, emplea escucha activa, preguntas abiertas y prototipos para definir funcionalidades. En trabajo en equipo, descompone proyectos, identifica dependencias y establece comunicación efectiva para distribuir tareas. En control de calidad, documenta fallos, realiza correcciones y verifica soluciones, asegurando trazabilidad. En despliegue, prioriza instrucciones claras, pruebas en diferentes entornos y medidas de seguridad como cifrado y actualizaciones constantes. En presentaciones, adapta el mensaje a la audiencia, utiliza recursos visuales y se prepara para preguntas, con capacidad para comunicarse en inglés. Valora el uso de librerías y frameworks para optimizar tiempo y fomentar eficiencia. Entre sus fortalezas destaca la innovación y creatividad, fomentando discusiones para enriquecer ideas. Reconoce como área de mejora su nivel técnico frente a compañeros más experimentados, lo que lo motiva a aprender y mejorar constantemente.**
 
 ---
 
