@@ -18,7 +18,7 @@
 - Técnico en sistemas agropecuarios ecologicos.
 ### **Talento Tech** _(2024 - 2024)_
 - Curso en Analista de Datos
-### **Talento Tech** _(2025 - Actualidad)_
+### **SENA** _(2025 - Actualidad)_
 - Aprendiz Analista y Desarrollador de software.
 ## 💡 Habilidades
 - **Andrés es un aprendiz en etapa inicial en programación, con bases en Python y una metodología ordenada para resolver problemas. Antes de escribir código, analiza la situación, planifica y documenta, buscando claridad y entendimiento. En la recolección de requisitos, emplea escucha activa, preguntas abiertas y prototipos para definir funcionalidades. En trabajo en equipo, descompone proyectos, identifica dependencias y establece comunicación efectiva para distribuir tareas. En control de calidad, documenta fallos, realiza correcciones y verifica soluciones, asegurando trazabilidad. En despliegue, prioriza instrucciones claras, pruebas en diferentes entornos y medidas de seguridad como cifrado y actualizaciones constantes. En presentaciones, adapta el mensaje a la audiencia, utiliza recursos visuales y se prepara para preguntas, con capacidad para comunicarse en inglés. Valora el uso de librerías y frameworks para optimizar tiempo y fomentar eficiencia. Entre sus fortalezas destaca la innovación y creatividad, fomentando discusiones para enriquecer ideas. Reconoce como área de mejora su nivel técnico frente a compañeros más experimentados, lo que lo motiva a aprender y mejorar constantemente.**
